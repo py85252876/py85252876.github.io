@@ -43,4 +43,6 @@ Pre-Print Works
 [[arXiv](https://arxiv.org/abs/2407.12581)]
 [[Code]([https://github.com/py85252876/UVD])]
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kTMcfgVSl2wlhaC8eXnmS48wmgbERZvGUS8N-iCZAiY&cl=ffffff&w=a"></script>
+<div style="width: 33.33%; max-width: 300px;"> <!-- 设置宽度为33.33% -->
+  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kTMcfgVSl2wlhaC8eXnmS48wmgbERZvGUS8N-iCZAiY&cl=ffffff&w=a"></script>
+</div>

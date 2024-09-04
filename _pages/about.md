@@ -26,7 +26,7 @@ Publications
 [[Code]([https://github.com/py85252876/Reconstruction-based-Attack])]
 
 
-Pre-Print
+Pre-Print Works
 ======
 ### <span style="color:#52ADC8">White-box membership inference attacks against diffusion models</span>
 **Yan Pang**, Tianhao Wang, Xuhui Kang, Mengdi Huai, Yang Zhang; \

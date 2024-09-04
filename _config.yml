@@ -21,7 +21,7 @@ repository               : "py85252876.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "img.jpg"
   name             : "Yan Pang"
   # pronouns         : # example: "she/her"  
   bio              : "PhD student at University of Virginia"

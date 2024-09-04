@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a second-year PhD student at the Univerisity of Virginia, supervised by Prof. Tianhao Wang. Before that, I obtained my bachelor's degree at Southwest Jiaotong University. 
+I am currently a second-year Ph.D. student at the Univerisity of Virginia, supervised by [Prof. Tianhao Wang](https://tianhao.wang/). Before that, I obtained my bachelor's degree at Southwest Jiaotong University. 
 
 What's New
 ======

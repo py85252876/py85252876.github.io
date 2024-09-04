@@ -12,7 +12,7 @@ title                    : "Yan Pang(庞沿)"
 title_separator          : "-"
 name                     : &name "Yan Pang(庞沿)"
 description              : &description "PhD student at University of Virginia"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://py85252876.github.io"
+url                      : https://py85252876.github.io # the base hostname & protocol for your site e.g. "https://py85252876.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "py85252876.github.io"
 

@@ -21,9 +21,10 @@ Research Area
 Publications
 ======
 ### <span style="color:#52ADC8">Black-box Membership Inference Attacks against Fine-tuned Diffusion Models</span>
-**Yan Pang**, Tianhao Wang; *NDSS 2025* \
+**Yan Pang**, Tianhao Wang; **NDSS 2025** \
 [[arXiv](https://arxiv.org/abs/2312.08207)]
 [[Code](https://github.com/py85252876/Reconstruction-based-Attack)]
+(Badge: Available, Functional, Reproduced)
 
 
 Pre-Print Works

@@ -11,6 +11,7 @@ I am currently a second-year Ph.D. student at the Univerisity of Virginia, super
 
 What's New
 ======
+- [2024.09] I passed the PhD Qualifying Exam and officially became a PhD candidate!
 - [2024.08] Our paper titled "Black-box Membership Inference Attacks against Fine-tuned Diffusion Models” got accepted in [NDSS 2025](https://www.ndss-symposium.org/ndss2025/). See you in San Diego!
 
 Research Area

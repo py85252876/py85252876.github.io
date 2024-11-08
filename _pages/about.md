@@ -47,6 +47,6 @@ I am a second-year Ph.D. student at [University of Virginia]([https://cispa.de/]
 
 ## Map
 
-<div style="width: 25%; max-width: 300px; margin: auto; text-align: center;">
+<div style="width: 50%; max-width: 600px; margin: auto; text-align: center;">
     <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=kTMcfgVSl2wlhaC8eXnmS48wmgbERZvGUS8N-iCZAiY&cl=ffffff&w=a"></script>
 </div>

@@ -26,6 +26,7 @@ I am a second-year Ph.D. student at [University of Virginia]([https://cispa.de/]
 **Yan Pang**, Tianhao Wang; **NDSS 2025** \
 [[arXiv](https://arxiv.org/abs/2312.08207)]
 [[Code](https://github.com/py85252876/Reconstruction-based-Attack)]
+**[Badge: Available, Functional, Reproduced]**
 
 ### <span style="color:#52ADC8">White-box membership inference attacks against diffusion models</span>
 **Yan Pang**, Tianhao Wang, Xuhui Kang, Mengdi Huai, Yang Zhang; **PoPETs 2025** \

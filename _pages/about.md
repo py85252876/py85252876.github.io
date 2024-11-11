@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at [University of Virginia]([https://cispa.de/](https://www.virginia.edu/)), supervise by [Prof. Tianhao Wang]([https://yangzhangalmo.github.io/](https://tianhao.wang/)). Before that, I obtained my bachelor’s degree at Southwest Jiaotong University.
+I am a second-year Ph.D. student at [University of Virginia]([https://cispa.de/](https://www.virginia.edu/)), supervised by [Prof. Tianhao Wang]([https://yangzhangalmo.github.io/](https://tianhao.wang/)). Before that, I obtained my bachelor’s degree at Southwest Jiaotong University.
 
 ## Research Interests
 

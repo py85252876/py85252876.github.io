@@ -46,6 +46,12 @@ I am a second-year Ph.D. student at [University of Virginia]([https://www.virgin
 [[arXiv](https://arxiv.org/abs/2402.13126)]
 [[Code](https://github.com/py85252876/MMVGM)]
 
+## Volunteer: 
+
+- **AHS Science Fair.** Help high school students develop their science projects as part of the Charlottesville Community Science Fair Event. *Albemarle High School, February 2024*
+
+- **ACM Capital Region Celebration of Women in Computing (CAPWIC).** Guide people to the event venue. *University of Virginia, April 2024.*
+
 ## Map
 
 <div style="width: 50%; max-width: 600px; margin: auto; text-align: center;">

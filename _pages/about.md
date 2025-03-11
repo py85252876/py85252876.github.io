@@ -31,11 +31,13 @@ I'm always open to collaboration and would love to explore any fascinating topic
 ## Publications
 
 ### <span style="color:#52ADC8">Towards Understanding Unsafe Video Generation</span>
-**Yan Pang**, Aiping Xiong, Yang Zhang, Tianhao Wang; **NDSS 2025** \ **[Acceptance Rate: 211/1311 = 16.1%]** [[arXiv](https://arxiv.org/abs/2407.12581)]
+**Yan Pang**, Aiping Xiong, Yang Zhang, Tianhao Wang; **NDSS 2025** \ 
+**[Acceptance Rate: 211/1311 = 16.1%]** [[arXiv](https://arxiv.org/abs/2407.12581)]
 [[Code](https://github.com/py85252876/UVD)]
 
 ### <span style="color:#52ADC8">Black-box Membership Inference Attacks against Fine-tuned Diffusion Models</span>
-**Yan Pang**, Tianhao Wang; **NDSS 2025** \ **[Acceptance Rate: 211/1311 = 16.1%]**  [[arXiv](https://arxiv.org/abs/2312.08207)]
+**Yan Pang**, Tianhao Wang; **NDSS 2025** \ 
+**[Acceptance Rate: 211/1311 = 16.1%]**  [[arXiv](https://arxiv.org/abs/2312.08207)]
 [[Code](https://github.com/py85252876/Reconstruction-based-Attack)]
 **[Badge: Available, Functional, Reproduced]**
 

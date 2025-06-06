@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year Ph.D. student at [University of Virginia]([https://www.virginia.edu/]), supervised by [Prof. Tianhao Wang]([https://tianhao.wang/]). Before that, I obtained my bachelor’s degree at Southwest Jiaotong University.
+I am a third-year Ph.D. student at [University of Virginia]([https://www.virginia.edu/]), supervised by [Prof. Tianhao Wang]([https://tianhao.wang/]). Before that, I obtained my bachelor’s degree at Southwest Jiaotong University.
 
 I'm always open to collaboration and would love to explore any fascinating topics together. Feel free to reach out to me at [email](mailto:trv3px@virginia.edu)—I'm excited to learn from you!  
 

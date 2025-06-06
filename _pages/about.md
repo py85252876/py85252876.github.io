@@ -9,9 +9,7 @@ redirect_from:
 
 I am a third-year Ph.D. student at [University of Virginia]([https://www.virginia.edu/]), supervised by [Prof. Tianhao Wang]([https://tianhao.wang/]). Before that, I obtained my bachelor’s degree at Southwest Jiaotong University.
 
-I'm always open to collaboration and would love to explore any fascinating topics together. Feel free to reach out to me at [email](mailto:trv3px@virginia.edu)—I'm excited to learn from you!  
-
-**<span style="color:red">*I'm actively seeking a 2025 summer internship and would be grateful for your support!*</span>**
+I'm always open to collaboration and would love to explore any fascinating topics together. Feel free to reach out to me at [email](mailto:trv3px@virginia.edu)—I'm excited to learn from you! 
 
 
 ## Research Interests

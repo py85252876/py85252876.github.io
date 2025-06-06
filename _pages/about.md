@@ -14,7 +14,7 @@ I'm always open to collaboration and would love to explore any fascinating topic
 
 ## Research Interests
 
-- Safety of Image/Video Generation Models
+- Trustworthy AI
 - Machine learning Privacy and Security
 
 ## What's New
